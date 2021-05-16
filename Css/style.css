@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+
+}
+
+.page-wrapper{
+    width: 100%;
+    padding: 1% 0%;
+
+}
+
+.box{
+
+    width: 85%;
+    padding: 1% 0%;
+    margin-top: 2%;
+    margin-left: 5%;
+    border: 1px solid royalblue;
+    box-sizing: border-box;
+}
+.box1{
+    width: 98%;
+    padding: 0% 0%;
+    margin-left: 0.8%;
+    border: 1px solid orange;
+    background-color: white;
+}
+    
+
+.box1-middle1{
+    width: 50%;
+    padding: 6% 0%;
+    margin: auto;
+    background-color: blue;
+    box-sizing: border-box;
+
+
+
+}
+.box1-middle-A{
+    width: 43%;
+    padding: 4% 0%;
+    margin-top: -8%;
+    background-color:orange;
+    float: left;
+    box-sizing: border-box;
+
+
+}
+.box1-middle-B{
+    width: 43%;
+    padding: 8% 0%;
+    margin-top: -8%;
+    background-color:green;
+    float: right;
+
+
+}
+.box1-middle-A1{
+    width: 40%;
+    padding: 8% 4%;
+    margin-top: 3%;
+    background-color: tomato;
+    float: left;
+}
+.box1-middle-A2{
+    width: 40%;
+    padding: 8% 4%;
+    margin-top: 3%;
+    background-color: turquoise;
+    float: right;
+}
+
+.box2{
+    width: 98%;
+    margin-top: 2%;
+    margin-left: 0.8%;
+    border: 1px solid black;
+    background-color: white;
+    
+}
+.box2-middle1{
+    width: 50%;
+    padding: 6% 0%;
+    margin: auto;
+    background-color: blue;
+}
